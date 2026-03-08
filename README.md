@@ -27,6 +27,14 @@
 
   ## İndir | Download
 
+  ## İndir | Download
+
+**TR:** Windows kurulum dosyasını doğrudan buradan indirebilirsiniz:  
+[Windows Kurulum Dosyasını İndir](https://github.com/edizdar/sismo-radar/releases/download/v1.0.0/SismoRadarSetup_v1.0.0.exe)
+
+**EN:** You can download the Windows installer directly here:  
+[Download Windows Installer](https://github.com/edizdar/sismo-radar/releases/download/v1.0.0/SismoRadarSetup_v1.0.0.exe)
+
 **TR:** Windows kurulum dosyasını [Releases](https://github.com/edizdar/sismo-radar/releases) bölümünden indirebilirsiniz.  
 **EN:** You can download the Windows installer from the [Releases](https://github.com/edizdar/sismo-radar/releases) section.
 
@@ -34,5 +42,3 @@
 
 **TR:** İndirdiğiniz kurulum dosyasını çalıştırın ve ekrandaki adımları takip edin.  
 **EN:** Run the installer file you downloaded and follow the on-screen steps.
-
-
