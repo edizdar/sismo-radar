@@ -1,10 +1,6 @@
-# sismo-radar
-TR: Anlık deprem bildirimi, sesli uyarı ve filtreleme özelliklerine sahip masaüstü deprem takip programı. 
-EN: Desktop earthquake monitoring app with real-time alerts, voice notifications, and filtering options.
-
 # Sismo Radar – Canlı Deprem Takibi | Live Earthquake Monitoring
 
-**TR:** Sismo Radar, Türkiye ve dünya depremlerini anlık takip etmenizi sağlayan bir masaüstü uygulamasıdır. Uygulama; masaüstü bildirimleri, sesli uyarılar, minimum büyüklük filtresi ve bölge seçimi gibi özelliklerle deprem takibini daha kolay ve pratik hale getirir.
+**TR:** Sismo Radar, Türkiye ve dünya depremlerini anlık takip etmenizi sağlayan bir masaüstü uygulamasıdır. Masaüstü bildirimleri, sesli uyarılar, minimum büyüklük filtresi ve bölge seçimi gibi özelliklerle deprem takibini daha kolay ve pratik hale getirir.
 
 **EN:** Sismo Radar is a desktop application that helps you monitor earthquakes in real time in Turkey and around the world. It makes earthquake tracking easier and more practical with features such as desktop notifications, voice alerts, minimum magnitude filtering, and region selection.
 
