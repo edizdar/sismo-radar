@@ -1,3 +1,4 @@
+![2026-03-07_10-11-26](https://github.com/user-attachments/assets/89a7694f-f4a3-4399-a688-02db597dd800)
 # Sismo Radar – Canlı Deprem Takibi | Live Earthquake Monitoring
 
 **TR:** Sismo Radar, Türkiye ve dünya depremlerini anlık takip etmenizi sağlayan bir masaüstü uygulamasıdır. Masaüstü bildirimleri, sesli uyarılar, minimum büyüklük filtresi ve bölge seçimi gibi özelliklerle deprem takibini daha kolay ve pratik hale getirir.
