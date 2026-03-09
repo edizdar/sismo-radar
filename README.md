@@ -61,4 +61,6 @@ The software does not request any special permissions, can also be used as a por
 **TR:** İndirdiğiniz kurulum dosyasını çalıştırın ve ekrandaki adımları takip edin.  
 **EN:** Run the installer file you downloaded and follow the on-screen steps.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4QecfwT8LQ?si=zY-stWs4ka1gYvOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Tanıtım Videosu
+
+[![Sismo Radar Tanıtım Videosu](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)
